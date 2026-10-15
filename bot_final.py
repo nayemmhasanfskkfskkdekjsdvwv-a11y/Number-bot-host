@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 # ==========================================
 # Configuration (Environment Variables Recommended)
 # ==========================================
-TOKEN = os.environ.get("BOT_TOKEN", "86597ii06:AAHw3IUUx0feMuaW6y4CRPDUTSpnop1Zn4M")
+TOKEN = os.environ.get("BOT_TOKEN", "865906:AAHw3IUUx0feMuaW6y4CRPDUTSpnop1Zn4M")
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
